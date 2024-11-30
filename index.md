@@ -5,6 +5,7 @@ I am a Electrical Engineering major at CSUF and i plan on graduating in 2028.
 
 ## Favorite CPSC 120L Labs Lab 1
 
+Lab 1
 This was my favorite part of the lab because it was such a brand new experience for me and in this lab we were learning how to clone,push,commit and status our code and also being able to print out “Hello World!” and then replace the word World with our names.
 
 Lab 8, Part 2 
